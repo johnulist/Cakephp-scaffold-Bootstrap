@@ -1,5 +1,5 @@
 # Bootstrap scaffold views for CakePHP
-Theme I using on projects.
+Theme I using on projects. They are updated original scaffold view templates to use with Bootstrap framework.
 
 ## Requirements
 * CakePHP - i tested it on 2.6.1 and 2.6.2
